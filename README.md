@@ -17,4 +17,3 @@ I'm glad you're here! I'm Júlia Fonseca, a programming enthusiast and a FullSta
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/T-Rex.png" alt="T-Rex" width="25" height="25" /> My purpose
 My purpose in the tech world is to harness the power of coding to create meaningful and transformative experiences. I strive to blend creativity with logic, turning ideas into solutions that make a tangible difference. 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=24&pause=1000&color=FFFFFF&vCenter=true&random=false&width=600&height=27&lines=%F0%9F%98%8D+Thx+4+everything;%F0%9F%92%99+Pls+follow+me+on+Linkedin;%F0%9F%A7%90+Check+out+my+projects;%F0%9F%98%89+Feel+free+to+reach+me+out;%F0%9F%92%96+Have+a+nice+day!;%F0%9F%91%8B%F0%9F%8F%BD+%C3%80+la+prochaine)](https://git.io/typing-svg)
